@@ -8,7 +8,7 @@ Test task done for ServiceHub company by Kuzmin Aleksandr
 - [x] 4. Перейти в корзину и проверить, что он уже там есть
 
 ## Запуск проекта - установка ПО
-Для запуска проетка необходимо установить следующее ПО, скачать которое можно по ссылкам:
+Для запуска проетка необходимо установить следующее ПО, скачать которое можно найти по ссылкам:
 * Java SE 11 (LTS)  https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
 * IntelliJ IDEA Community Edition (Версия: 2021.2 Сборка: 212.4746.92 27 июля 2021 г.) https://www.jetbrains.com/ru-ru/idea/download
 * Apache Maven (3.8.1) https://mirror.linux-ia64.org/apache/maven/maven-3/3.8.1/binaries/apache-maven-3.8.1-bin.zip
