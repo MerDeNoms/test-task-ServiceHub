@@ -73,7 +73,7 @@ Test task done for ServiceHub company by Kuzmin Aleksandr
 
 ![image](https://user-images.githubusercontent.com/38666808/129279382-6733a8f7-85ce-4098-9ae9-5afb782bacfb.png)
 
-На 14-й строке нужно указать путь к драйверу для его запуска
+Отредактируйте код на 14-й строке файла Test_Udemy.java - нужно указать путь к драйверу для его запуска
 
 ![image](https://user-images.githubusercontent.com/38666808/129280280-bcf692ff-a3b4-403b-993e-eb6c75038135.png)
 
