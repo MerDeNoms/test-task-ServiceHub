@@ -59,8 +59,8 @@ Test task done for ServiceHub company by Kuzmin Aleksandr
 ![image](https://user-images.githubusercontent.com/38666808/129278957-07aa5bb1-c420-465f-a4cb-83acecd35ebe.png)
 
 
-Если JDK не подключился автоматически выберете 'Setup SDK' над редактором кода (в том же месте, где и предыдущий шаг)
-Добавьте конфтгурацию запуска 'Add Configuration' над редактором кода
+Если JDK не подключился автоматически выберете 'Setup SDK' над редактором кода (в том же месте, где и предыдущий шаг).
+Добавьте конфигурацию запуска 'Add Configuration' над редактором кода.
 В появившемся окне кликните по 'Add new run configuration' -> 'Application'
 
 ![image](https://user-images.githubusercontent.com/38666808/129279181-2e717ade-ac64-4866-8b41-1e18aa60e7c5.png)
