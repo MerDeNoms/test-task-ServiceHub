@@ -50,7 +50,7 @@ Test task done for ServiceHub company by Kuzmin Aleksandr
 ![image](https://user-images.githubusercontent.com/38666808/129278829-8ef2f548-8c94-4ecc-aa4a-fdf0184e2347.png)
 
 
-Откройте меню Maven (справа) и разрешите зависимости кликом по исконке 'Download Sources and/or Documentation' А затем по опции 'Download Sources'
+Откройте меню Maven (справа) и разрешите зависимости кликом по иконке 'Download Sources and/or Documentation' А затем по опции 'Download Sources'
 
 ![image](https://user-images.githubusercontent.com/38666808/129278428-3a084e59-98bd-48e9-b8f7-b780f9c6641a.png)
 
